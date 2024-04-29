@@ -1,6 +1,6 @@
 {
   "mappings": [
     "/content/ish/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/ish/configuration:/.helix/config.json"
   ]
 }
