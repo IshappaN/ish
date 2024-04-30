@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/ish/:/",
-    "/content/ish/configuration:/.helix/config.json"
+    "/content/ish/:/"
   ]
 }
