@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/IshappaN/ish/main"
+    url: "https://drive.google.com/drive/u/0/folders/12RjzwBHhSYQfrnDttaiHw6ZkYqI73PKs"
     type: "markup"
     suffix: ".html"
